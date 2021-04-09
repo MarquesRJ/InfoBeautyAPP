@@ -11,11 +11,11 @@ public class LoginUsuario extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_login_usuario);
     }
-    public void telaIndex(View view){
+    public void telaIndexUsuario(View view){
 
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, IndexUsuario.class);
         startActivity(intent);
     }
 

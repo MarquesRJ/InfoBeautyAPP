@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/abhaya_libre_bold</item>
+        <item>@font/amita_bold</item>
+        <item>@font/anton</item>
+        <item>@font/gravitas_one</item>
+        <item>@font/quicksand_light</item>
+        <item>@font/shadows_into_light_two</item>
+        <item>@font/wendy_one</item>
+    </array>
+</resources>
